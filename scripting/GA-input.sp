@@ -1,7 +1,7 @@
 /* ****************************************************************
     GA-input: Genetic algorithm plugin for Team Fortress 2.
 
-    Copyright (C) 2020 Lauri Räsänen
+    Copyright (C) 2020 nullprop
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -135,10 +135,10 @@ char g_cFitnessOutFile[64];
 public Plugin myinfo =
 {
     name = "GA-input",
-    author = "laurirasanen",
+    author = "nullprop",
     description = "Genetic algorithm for surf and rocketjump",
     version = "1.0.18",
-    url = "https://github.com/laurirasanen"
+    url = "https://github.com/nullprop"
 };
 
 // Summary:
